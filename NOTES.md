@@ -10,6 +10,7 @@
 ###Joins
 - Inner join: students and projects
 - Inner section
+
 ![alt text][chart]
 [chart]: http://www.w3schools.com/sql/img_innerjoin.gif
 ```
