@@ -11,7 +11,7 @@
 - Inner join: students and projects
 - Inner section
 ![alt text][chart]
-[chart]http://www.w3schools.com/sql/img_innerjoin.gif
+[chart]: http://www.w3schools.com/sql/img_innerjoin.gif
 ```
 SELECT * FROM students
 INNER JOIN projects ON projects.student_id = students.id
